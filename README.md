@@ -1,4 +1,4 @@
-# Cyclocommandeur
+# Project template!
 ![cat](./img/cat1.jpg)
 
 *Short description about the project, what it does, how, why, ...*
